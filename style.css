@@ -1,0 +1,36 @@
+body
+{
+    background-color: #9661c2;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(183, 117, 211, 0.788);
+    text-align: center;
+}
+
+ul li
+{
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+button
+{
+    background-color: #61127bd8;
+    padding: 5px;
+}
+
+a
+{
+    color: rgba(196, 73, 180, 0.788);
+    text-decoration: none;
+}
+
+.input
+{
+    font-weight: bold;
+}
+
+.output
+{
+    background-color: #311a5ed8;
+    padding: 5px;
+}
